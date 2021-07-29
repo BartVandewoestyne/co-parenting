@@ -16,9 +16,11 @@ De voorwaarden om van deze vermindering te kunnen genieten zijn als volgt:
 * Uw kinderen zijn op 1 januari van het aanslagjaar gedomicilieerd op het adres van de woning waarvoor de vermindering van toepassing is. Dat wil dus zeggen dat de kinderen er ingeschreven zijn in het bevolkingsregister of vreemdelingenregister.
 Bemerk dat hier het *domicilie-adres* van tel is.  De co-ouder in gelijkmatig verdeeld co-ouderschap bij wie de kinderen niet gedomicilieerd zijn, is dus in het nadeel en krijgt de vermindering niet.  Via de pagina [Simulatie onroerende voorheffing](https://belastingen.fenb.be/ui/public/ov/simulatie) van de [Vlaamse Belastingdienst](https://belastingen.fenb.be/) kan u zelf berekenen hoeveel vermindering u in een bepaald aanslagjaar mislopen hebt.  Onderstaande tabel geeft voor mezelf aan welke vermindering ik doorheen de jaren zo aan mijn neus heb zien passeren.
 
+<center>
 | Aanslagjaar   | 'gemiste' vermindering (EUR) |
 | ------------- |:-------------:|
 | 2021          | 183,52        |
+</center>
 
 ## Wat is de stand van zaken?
 In 2011 oordeelde het Grondwettelijk Hof dat deze regeling discriminerend is. (TODO: bron?)
