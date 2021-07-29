@@ -28,11 +28,11 @@ Op 5 mei 2011 oordeelt het Grondwettelijk Hof in een [arrest](https://www.strada
 
 In het Waals Gewest is dit wel aangepast aan het kind indien er sprake is van fiscaal co-ouderschap. (TODO: bron?)
 
+Op 15 november 2016 stelde [Valerie Taeldeman](https://www.cdenv.be/kopstuk/valerie-taeldeman/) (CD&V) hierover een [schriftelijke vraag](https://docs.vlaamsparlement.be/pfile?id=1225303) in het Vlaams Parlement, dewelke beantwoord werd door de toenmalige Vlaams minister van begroting, financiën en energie [Bart Tommelein](https://www.tommelein.com/) (Open Vld).
+
 Op 22 februari 2018 oordeelt het Grondwettelijk Hof in een [arrest](https://www.stradalex.com/nl/sl_src_publ_jur_be/document/grondhof_2018-23) datzelfde voor het *Brusselse Hoofdstedelijke Gewest*:
 
 > Artikel136  van  het  Wetboek  van  de  inkomstenbelastingen 1992,  in  samenhang  gelezen met artikel 257 van hetzelfde Wetboek, zoals zij in het Brusselse Hoofdstedelijke Gewest van toepassing   zijn,   schendt   de   artikelen 10   en   11   van   de   Grondwet   in   zoverre   het   de alleenstaande  belastingplichtige,  die  zijn  kinderen  op  gelijkmatig  gedeelde  wijze  huisvest, onder geen enkele voorwaardede mogelijkheid biedt om een gedeeltelijke vermindering van de onroerende voorheffing te genieten in verband met het onroerend goed dat hij betrekt.
-
-Op 15 november 2016 stelde [Valerie Taeldeman](https://www.cdenv.be/kopstuk/valerie-taeldeman/) (CD&V) hierover een [schriftelijke vraag](https://docs.vlaamsparlement.be/pfile?id=1225303) in het Vlaams Parlement, dewelke beantwoord werd door de toenmalige Vlaams minister van begroting, financiën en energie [Bart Tommelein](https://www.tommelein.com/) (Open Vld).
 
 Op 3 november 2020 stelde An Moerenhout hierover een [schriftelijke vraag](https://docs.vlaamsparlement.be/pfile?id=1631982) in het Vlaams Parlement, dewelke beantwoord werd door de huidige Vlaams minister van financiën en begroting, wonen en onroerend erfgoed [Matthias Diependaele](https://www.matthiasdiependaele.be/) (NVA).
 
