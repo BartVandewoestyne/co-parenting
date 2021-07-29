@@ -7,7 +7,7 @@ description: Info over de onroerende voorheffing
 # Onroerende voorheffing
 
 ## Wat is het?
-De onroerende voorheffing is een jaarlijkse Vlaamse belasting op onroerende goederen die in het Vlaams Gewest liggen. Ze wordt berekend op basis van het kadastraal inkomen.
+De [onroerende voorheffing](https://www.vlaanderen.be/onroerende-voorheffing) is een jaarlijkse Vlaamse belasting op onroerende goederen die in het Vlaams Gewest liggen. Ze wordt berekend op basis van het kadastraal inkomen.
 
 ## Hoe wordt de co-ouder benadeeld?
 In bepaalde gevallen kan men vermindering krijgen op de onroerende voorheffing, onder andere voor gezinsbijslaggerechtigde kinderen.
