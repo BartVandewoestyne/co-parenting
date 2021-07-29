@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Onroerende voorheffing"
+theme: jekyll-theme-cayman
 permalink: /onroerende-voorheffing
 ---
 
