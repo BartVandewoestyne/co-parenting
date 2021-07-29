@@ -36,6 +36,6 @@ Op 22 februari 2018 oordeelt het Grondwettelijk Hof in een [arrest](https://www.
 
 Op 3 november 2020 stelde An Moerenhout hierover een [schriftelijke vraag](https://docs.vlaamsparlement.be/pfile?id=1631982) in het Vlaams Parlement, dewelke beantwoord werd door de huidige Vlaams minister van financiën en begroting, wonen en onroerend erfgoed [Matthias Diependaele](https://www.matthiasdiependaele.be/) (NVA).
 
-Koen Van Den Heuvel liet me weten dat hij na het zomerreces van 2020 deze topic opnieuw wil oppikken.
-
 Op 14 juli 2021 heb ik gebeld naar de Vlaamse Belastingdienst op het nummer 1700 om te vragen of er al iets gewijzigd is in de regeling, en dat bleek niet het geval.  Men verwijst me door naar Vlaams minister van Financiën [Matthias Diependaele](https://www.matthiasdiependaele.be/) (NVA).
+
+[Koen Van Den Heuvel](https://www.koenvandenheuvel.be/) liet me weten dat hij na het zomerreces van 2021 deze topic opnieuw wil oppikken.
