@@ -22,13 +22,13 @@ Bemerk dat hier het *domicilie-adres* van tel is.  De co-ouder in gelijkmatig ve
 | 2021          | 183,52 EUR             |
 
 ## Wat is de stand van zaken?
-Op 5 mei 2011 oordeelt het Grondwettelijk Hof in een (arrest)[https://www.stradalex.com/nl/sl_src_publ_jur_be/document/grondhof_2011-63] voor het *Waalse Gewest* dat dit oneerlijk is, want in haar arrest staat:
+Op 5 mei 2011 oordeelt het Grondwettelijk Hof in een [arrest](https://www.stradalex.com/nl/sl_src_publ_jur_be/document/grondhof_2011-63) voor het *Waalse Gewest* dat dit oneerlijk is, want in haar arrest staat:
 
 > Artikel  136  van  het  Wetboek  van  de  inkomstenbelastingen  1992,  in  samenhang  gelezen  met de artikelen 257 en 258 ervan zoals zij in het Waalse Gewest van toepassing zijn, schendt de artikelen 10 en 11 van de Grondwet in zoverre het de alleenstaande belastingplichtige, die zijn  kinderen  op  gelijkmatig  gedeelde  wijze  huisvest,  onder  geen  enkele  voorwaarde  de  mogelijkheid  biedt  om  een  gedeeltelijke  vermindering  van  de  onroerende  voorheffing  te  genieten in verband met het onroerend goed dat hij betrekt.
 
 In het Waals Gewest is dit wel aangepast aan het kind indien er sprake is van fiscaal co-ouderschap. (TODO: bron?)
 
-Op 22 februari 2018 oordeelt het Grondwettelijk Hof in een (arrest)[https://www.stradalex.com/nl/sl_src_publ_jur_be/document/grondhof_2018-23] datzelfde voor het *Brusselse Hoofdstedelijke Gewest*:
+Op 22 februari 2018 oordeelt het Grondwettelijk Hof in een [arrest](https://www.stradalex.com/nl/sl_src_publ_jur_be/document/grondhof_2018-23) datzelfde voor het *Brusselse Hoofdstedelijke Gewest*:
 
 > Artikel136  van  het  Wetboek  van  de  inkomstenbelastingen 1992,  in  samenhang  gelezen met artikel 257 van hetzelfde Wetboek, zoals zij in het Brusselse Hoofdstedelijke Gewest van toepassing   zijn,   schendt   de   artikelen 10   en   11   van   de   Grondwet   in   zoverre   het   de alleenstaande  belastingplichtige,  die  zijn  kinderen  op  gelijkmatig  gedeelde  wijze  huisvest, onder geen enkele voorwaardede mogelijkheid biedt om een gedeeltelijke vermindering van de onroerende voorheffing te genieten in verband met het onroerend goed dat hij betrekt.
 
