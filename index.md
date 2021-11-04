@@ -5,6 +5,7 @@ Co-ouderschap is een realiteit voor vele (nieuw samengestelde) gezinnen.  Naast 
 De co-ouder bij wie de kinderen niet gedomicilieerd zijn, ontvangt uiteraard de officiële post niet.  Hij is dus aangewezen op de andere co-ouder om hem op de hoogte te houden van deze post.  Voorbeelden zijn post in verband met:
 * studietoelage
 * nieuwe kids-ID
+* uitnodigingen tot vaccinatie (bv. covid-19)
 * ...
 
 ## Onroerende voorheffing
