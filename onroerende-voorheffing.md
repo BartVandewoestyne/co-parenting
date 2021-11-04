@@ -21,6 +21,8 @@ Bemerk dat hier het *domicilie-adres* van tel is.  De co-ouder in gelijkmatig ve
 |:-------------:|:----------------------:|
 | 2021          | 183,52 EUR             |
 
+In de YouTube video [Discriminatie van de co-ouder: onroerende voorheffing](https://youtu.be/aeH-x_FN1Ro) kaart ik deze problematiek aan.
+
 ## Wat is de stand van zaken?
 Op 5 mei 2011 oordeelt het Grondwettelijk Hof in een [arrest](https://www.stradalex.com/nl/sl_src_publ_jur_be/document/grondhof_2011-63) voor het *Waalse Gewest* dat dit oneerlijk is, want in haar arrest staat:
 
