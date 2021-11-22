@@ -41,3 +41,5 @@ Op 3 november 2020 stelde An Moerenhout hierover een [schriftelijke vraag](https
 Op 14 juli 2021 heb ik gebeld naar de Vlaamse Belastingdienst op het nummer 1700 om te vragen of er al iets gewijzigd is in de regeling, en dat bleek niet het geval.  Men verwijst me door naar Vlaams minister van Financiën [Matthias Diependaele](https://www.matthiasdiependaele.be/) (NVA).
 
 [Koen Van Den Heuvel](https://www.koenvandenheuvel.be/) liet me weten dat hij na het zomerreces van 2021 deze topic opnieuw wil oppikken.
+
+Op 12 oktober 2021 stelde [Koen Van Den Heuvel (CD&V)](https://www.koenvandenheuvel.be/) in de Commissie voor Algemeen Beleid, Financiën, Begroting en Justitie hierover een [vraag](https://www.vlaamsparlement.be/nl/parlementair-werk/commissies/commissievergaderingen/1559569/verslag/1561299) aan [Matthias Diependaele](https://www.matthiasdiependaele.be/) (NVA).  In het antwoord kunnen jullie lezen dat hij er ook werk wil van maken, maar dat hij eerst de Vlaamse Belastingdienst (VLABEL) een onderzoek liet opstarten naar hoe dat op de meest praktische manier kan geïmplementeerd worden.  Hij wacht momenteel de resultaten van dat onderzoek af.
