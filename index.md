@@ -18,3 +18,8 @@ TODO.  Stay tuned!
 ## Waterfactuur
 
 TODO.  Stay tuned!
+
+## Links
+
+* [Onderzoeksverslag Gezinsfiscaliteit](https://www.federaalombudsman.be/nl/onderzoeksverslag-gezinsfiscaliteit) (18 april 2016)
+* [Domicilie van je kind na scheiding: gevolgen](https://www.perspectieven.be/blog/domicilie-van-je-kind-na-scheiding-gevolgen)
