@@ -15,11 +15,19 @@ De [onroerende voorheffing](https://www.vlaanderen.be/onroerende-voorheffing) is
 
 TODO.  Stay tuned!
 
+Referenties:
+* [Onderzoeksverslag Gezinsfiscaliteit](https://www.federaalombudsman.be/nl/onderzoeksverslag-gezinsfiscaliteit) (18 april 2016)
+
 ## Waterfactuur
 
 TODO.  Stay tuned!
 
+Referenties:
+* [De Watergroep - Veelgestelde vragen - Waarom hebben jullie het aantal gedomicilieerde inwoners nodig?](https://www.dewatergroep.be/nl-be/drinkwater/veelgestelde-vragen/mijn-waterfactuur/aantal-gedomicilieerde-inwoners)
+* [Vlaamse Milieumaatschappij - Prijen en tarieven gezinnen - Onderdelen van de waterfactuur](https://www.vmm.be/water/waterfactuur/prijzen-en-tarieven-gezinnen#section-0)
+* [Radio 2: Gedeeld ouderschap, gedeelde waterfactuur?](https://radio2.be/lees/gedeeld-ouderschap-gedeelde-waterfactuur) (1 juni 2016)
+
 ## Links
 
-* [Onderzoeksverslag Gezinsfiscaliteit](https://www.federaalombudsman.be/nl/onderzoeksverslag-gezinsfiscaliteit) (18 april 2016)
 * [Domicilie van je kind na scheiding: gevolgen](https://www.perspectieven.be/blog/domicilie-van-je-kind-na-scheiding-gevolgen)
+* [Gedeeld verblijf](https://www.vlaanderen.be/gedeeld-verblijf)
